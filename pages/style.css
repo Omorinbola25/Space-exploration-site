@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    color: #82a5ca;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+#hero {
+    background-image: url(/giphy.png);
+    background-size: cover;
+    padding: 10px 0 40px 0;
+    display: block;
+    background-position: center;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+    height: 100%;
+    width: 100%;
+   
+}
+
+#main-logo {
+    width: 100px;
+}
+#title {
+    text-shadow: 0px opx 4px black;
+}
+
+
+.btn {
+    padding: 6px 12px;
+    background: white;
+    border: none;
+    font-family: 'Times New Roman', Times, serif;
+    color: #82a5ca;
+    font-weight: 800;
+}
+
+.underline {
+    border-bottom: 4px solid white;
+}
